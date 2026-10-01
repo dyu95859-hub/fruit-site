@@ -18,7 +18,7 @@
   var esc=function(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});};
   var h=(window.FRUITS||[]).map(function(f,i){var c=f.credit;
     var lic=c.license_url?'<a href="'+esc(c.license_url)+'" target="_blank" rel="noopener license">'+esc(c.license)+'</a>':esc(c.license);
-    return '<tr><td>'+(i+1)+'</td><td><a href="index.html#fruit='+encodeURIComponent(f.id)+'"><img loading="lazy" src="'+esc(f.img)+'" alt="'+esc(f.zh)+'"></a></td><td><b>'+esc(f.zh)+'</b><br>'+esc(f.en)+'</td><td><a href="'+esc(c.page)+'" target="_blank" rel="noopener">'+esc(c.file)+'</a></td><td>'+esc(c.artist)+'</td><td>'+lic+'</td></tr>';}).join("");
+    return '<tr><td>'+(i+1)+'</td><td><a href="index.html#fruit='+encodeURIComponent(f.id)+'"><img loading="lazy" src="'+esc(f.img)+'" alt="'+esc(f.zh)+'"></a></td><td><b>'+esc(f.zh)+'</b><br>'+esc(f.en)+'</td><td>'+(c.page?'<a href="'+esc(c.page)+'" target="_blank" rel="noopener">'+esc(c.file)+'</a>':esc(c.file))+'</td><td>'+esc(c.artist)+'</td><td>'+lic+'</td></tr>';}).join("");
   document.getElementById("rows").innerHTML=h;
 })();
 </script>

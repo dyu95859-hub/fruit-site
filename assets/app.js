@@ -10,7 +10,7 @@
   var state = { q:"", family:"", letter:"", mode:"py", sort:"default" };
   var visible = [];
 
-  $("#total").textContent = F.length;
+  $("#total").textContent = F.filter(function(f){ return !f.special; }).length;
   // families
   var fams = {};
   F.forEach(function(f){ var k = f.family || "未知"; fams[k] = fams[k] || {n:0, sci:f.family_sci}; fams[k].n++; });
@@ -77,18 +77,18 @@
     current = f;
     $("#m-img").src = f.img; $("#m-img").alt = f.zh + "（" + f.en + "）";
     $("#m-title").textContent = f.zh;
-    $("#m-sub").innerHTML = esc(f.en) + " · <i>" + esc(f.sci) + "</i>" + (f.aliases.length ? "<br>别名：" + esc(f.aliases.join("、")) : "");
+    $("#m-sub").innerHTML = esc(f.en) + (f.sci ? " · <i>" + esc(f.sci) + "</i>" : "") + (f.aliases.length ? "<br>别名：" + esc(f.aliases.join("、")) : "");
     $("#m-intro").textContent = f.intro;
     var c = f.credit;
     var lic = c.license_url ? '<a href="' + esc(c.license_url) + '" target="_blank" rel="noopener license">' + esc(c.license) + "</a>" : esc(c.license);
-    $("#m-credit").innerHTML = "图片：<a href=\"" + esc(c.page) + "\" target=\"_blank\" rel=\"noopener\">" + esc(c.file) + "</a><br>作者：" + esc(c.artist) + " · 许可：" + lic + " · 来源：Wikimedia Commons（已缩放）";
-    $("#m-facts").innerHTML =
+    $("#m-credit").innerHTML = f.special ? esc(c.credit) : "图片：<a href=\"" + esc(c.page) + "\" target=\"_blank\" rel=\"noopener\">" + esc(c.file) + "</a><br>作者：" + esc(c.artist) + " · 许可：" + lic + " · 来源：Wikimedia Commons（已缩放）";
+    $("#m-facts").innerHTML = f.special ? fact("中文名", esc(f.zh)) + fact("英文名", esc(f.en)) + fact("分类", esc(f.family)) :
       fact("中文名", esc(f.zh)) + fact("英文名", esc(f.en)) + fact("学名", "<i>" + esc(f.sci) + "</i>" + (f.rank ? "（" + esc(f.rank) + "）" : "")) +
       fact("科", esc(f.family) + (f.family_sci ? " <i>" + esc(f.family_sci) + "</i>" : "")) +
       fact("属", f.genus ? esc(f.genus) + (f.genus_sci ? " <i>" + esc(f.genus_sci) + "</i>" : "") : "") +
       fact("果实类型", chips(f.fruit_type)) + fact("用途记录", chips(f.uses)) +
       fact("数据来源", '<small style="color:#888">Wikidata 结构化数据（果实类型、用途等条目并不完整）</small>');
-    $("#m-links").innerHTML = '<a href="' + esc(f.wikidata) + '" target="_blank" rel="noopener">Wikidata ' + esc(f.qid) + '</a><a href="' + esc(f.enwiki) + '" target="_blank" rel="noopener">Wikipedia（英文）</a><a href="https://zh.wikipedia.org/wiki/Special:Search?search=' + encodeURIComponent(f.zh) + '" target="_blank" rel="noopener">中文维基搜索</a>';
+    $("#m-links").innerHTML = f.special ? "" : '<a href="' + esc(f.wikidata) + '" target="_blank" rel="noopener">Wikidata ' + esc(f.qid) + '</a><a href="' + esc(f.enwiki) + '" target="_blank" rel="noopener">Wikipedia（英文）</a><a href="https://zh.wikipedia.org/wiki/Special:Search?search=' + encodeURIComponent(f.zh) + '" target="_blank" rel="noopener">中文维基搜索</a>';
     $("#modal").hidden = false; document.body.style.overflow = "hidden";
     if (!noHash) history.replaceState(null, "", "#fruit=" + encodeURIComponent(f.id));
     $(".modal-card").scrollTop = 0;

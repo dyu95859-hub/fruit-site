@@ -1,0 +1,404 @@
+百果图鉴 — 图片署名与许可（Image credits）
+所有图片来自 Wikimedia Commons，已缩放为约 450px 宽的 JPEG。作者与许可信息取自 Commons API extmetadata。
+文字数据来自 Wikidata（CC0）。
+
+  1. 苹果 / Apple — images/apple.jpg
+     File: https://commons.wikimedia.org/wiki/File:Honeycrisp.jpg
+     Author: Jonathunder
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+  2. 香蕉 / Banana — images/banana.jpg
+     File: https://commons.wikimedia.org/wiki/File:Cavendish_banana_from_Maracaibo.jpg
+     Author: Wilfredor
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+  3. 橙子 / Orange — images/orange.jpg
+     File: https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  4. 橘子 / Mandarin orange — images/mandarin-orange.jpg
+     File: https://commons.wikimedia.org/wiki/File:Mandarin_Oranges_(Citrus_Reticulata).jpg
+     Author: Joe Ravi
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+  5. 柠檬 / Lemon — images/lemon.jpg
+     File: https://commons.wikimedia.org/wiki/File:P1030323.JPG
+     Author: Elena Chochkova
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  6. 青柠 / Lime — images/lime.jpg
+     File: https://commons.wikimedia.org/wiki/File:Backyard_limes.jpg
+     Author: Wtstoffs at en.wikipedia
+     License: Public domain 
+  7. 葡萄柚 / Grapefruit — images/grapefruit.jpg
+     File: https://commons.wikimedia.org/wiki/File:Grapefruits_-_whole-halved-segments.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  8. 柚子 / Pomelo — images/pomelo.jpg
+     File: https://commons.wikimedia.org/wiki/File:Pomelo_fruit.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+  9. 金桔 / Kumquat — images/kumquat.jpg
+     File: https://commons.wikimedia.org/wiki/File:Kumquat_from_Spain.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 10. 香橙 / Yuzu — images/yuzu.jpg
+     File: https://commons.wikimedia.org/wiki/File:Yuzu_oranges_(6459456959).jpg
+     Author: Nikita from Russian Federation
+     License: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+ 11. 枸橼 / Citron — images/citron.jpg
+     File: https://commons.wikimedia.org/wiki/File:Citrus_medicus_fruit.jpg
+     Author: de:Benutzer:K reger (Klaus Reger)
+     License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+ 12. 葡萄 / Grape — images/grape.jpg
+     File: https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg
+     Author: Vyacheslav Argenberg
+     License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+ 13. 草莓 / Strawberry — images/strawberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 14. 蓝莓 / Blueberry — images/blueberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Dish_of_blueberries.jpg
+     Author: Petar Milošević
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 15. 树莓 / Raspberry — images/raspberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Raspberries05.jpg
+     Author: User:Fir0002
+     License: GFDL 1.2 http://www.gnu.org/licenses/old-licenses/fdl-1.2.html
+ 16. 黑莓 / Blackberry — images/blackberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Blackberry_(Rubus_fruticosus).jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 17. 蔓越莓 / Cranberry — images/cranberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Cranberry_bog.jpg
+     Author: Photo by Keith Weller
+     License: Public domain 
+ 18. 鹅莓 / Gooseberry — images/gooseberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Gooseberries.jpg
+     Author: neurovelho
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 19. 黑加仑 / Blackcurrant — images/blackcurrant.jpg
+     File: https://commons.wikimedia.org/wiki/File:Ribes_nigrum_a1.JPG
+     Author: Jerzy Opioła
+     License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+ 20. 红加仑 / Redcurrant — images/redcurrant.jpg
+     File: https://commons.wikimedia.org/wiki/File:Redcurrant_(Ribes_rubrum)_fruits.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 21. 接骨木果 / Elderberry — images/elderberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Sambucus-berries.jpg
+     Author: Edal Anton Lefterov
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 22. 桑葚 / Mulberry — images/mulberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Morus_alba_FrJPG.jpg
+     Author: Jean-Pol GRANDMONT
+     License: CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+ 23. 樱桃 / Cherry — images/cherry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Cherry_Stella444.jpg
+     Author: Benjamint444, edited by Fir0002
+     License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+ 24. 欧洲酸樱桃 / Sour cherry — images/sour-cherry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Sauerkirschenfrucht_Prunus_cerasus_2.JPG
+     Author: böhringer friedrich
+     License: CC BY-SA 2.5 https://creativecommons.org/licenses/by-sa/2.5
+ 25. 桃 / Peach — images/peach.jpg
+     File: https://commons.wikimedia.org/wiki/File:Autumn_Red_peaches.jpg
+     Author: Jack Dykinga, USDA
+     License: Public domain 
+ 26. 油桃 / Nectarine — images/nectarine.jpg
+     File: https://commons.wikimedia.org/wiki/File:Owoce_Nektarynka.jpg
+     Author: Agnieszka Kwiecień, Nova
+     License: GFDL 1.2 http://www.gnu.org/licenses/old-licenses/fdl-1.2.html
+ 27. 杏 / Apricot — images/apricot.jpg
+     File: https://commons.wikimedia.org/wiki/File:Apricot_and_cross_section.jpg
+     Author: Fir0002
+     License: GFDL 1.2 http://www.gnu.org/licenses/old-licenses/fdl-1.2.html
+ 28. 李子 / Plum — images/plum.jpg
+     File: https://commons.wikimedia.org/wiki/File:Plums_African_Rose_-_whole,_halved_and_slice.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 29. 青梅 / Ume — images/ume.jpg
+     File: https://commons.wikimedia.org/wiki/File:Prunus_mume_f._pleiocarpa_(fruit).jpg
+     Author: Neux-Neux
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 30. 梨 / Pear — images/pear.jpg
+     File: https://commons.wikimedia.org/wiki/File:Pears.jpg
+     Author: Keith Weller
+     License: Public domain 
+ 31. 沙梨 / Asian pear — images/asian-pear.jpg
+     File: https://commons.wikimedia.org/wiki/File:Pyrus_pyrifolia.jpg
+     Author: JJ Harrison (jjharrison89@facebook.com)
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 32. 榅桲 / Quince — images/quince.jpg
+     File: https://commons.wikimedia.org/wiki/File:Pancrace_Bessa00.jpg
+     Author: Pancrace Bessa
+     License: Public domain 
+ 33. 枇杷 / Loquat — images/loquat.jpg
+     File: https://commons.wikimedia.org/wiki/File:Louqat255.jpg
+     Author: Illusive255
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 34. 欧楂 / Medlar — images/medlar.jpg
+     File: https://commons.wikimedia.org/wiki/File:Medlar_pomes_and_leaves.jpg
+     Author: Solipsist（上传者；文件页未单列作者）
+     License: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+ 35. 芒果 / Mango — images/mango.jpg
+     File: https://commons.wikimedia.org/wiki/File:Mangos_-_single_and_halved.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 36. 菠萝 / Pineapple — images/pineapple.jpg
+     File: https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg
+     Author: Suniltg at Malayalam Wikipedia
+     License: CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+ 37. 木瓜 / Papaya — images/papaya.jpg
+     File: https://commons.wikimedia.org/wiki/File:Papaya_cut_half.jpg
+     Author: Maksym Kozlenko
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 38. 椰子 / Coconut — images/coconut.jpg
+     File: https://commons.wikimedia.org/wiki/File:Coconuts_-_single_and_cracked_open.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 39. 猕猴桃 / Kiwifruit — images/kiwifruit.jpg
+     File: https://commons.wikimedia.org/wiki/File:Kiwi_(Actinidia_chinensis)_1_Luc_Viatour.jpg
+     Author: Luc Viatour
+     License: CC BY-SA 2.5 https://creativecommons.org/licenses/by-sa/2.5
+ 40. 荔枝 / Lychee — images/lychee.jpg
+     File: https://commons.wikimedia.org/wiki/File:Litchi_chinensis_fruits.JPG
+     Author: B.navez
+     License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+ 41. 龙眼 / Longan — images/longan.jpg
+     File: https://commons.wikimedia.org/wiki/File:Dimocarpus_longan_(2).jpg
+     Author: Dinkun Chen
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 42. 红毛丹 / Rambutan — images/rambutan.jpg
+     File: https://commons.wikimedia.org/wiki/File:Rambutan_masak_didahan.JPG
+     Author: Tu7uh
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 43. 山竹 / Mangosteen — images/mangosteen.jpg
+     File: https://commons.wikimedia.org/wiki/File:Mangosteens_-_whole_and_opened.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 44. 榴莲 / Durian — images/durian.jpg
+     File: https://commons.wikimedia.org/wiki/File:Durian_in_black.jpg
+     Author: مانفی
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 45. 菠萝蜜 / Jackfruit — images/jackfruit.jpg
+     File: https://commons.wikimedia.org/wiki/File:The_jackfruit_is_holding_on_to_the_tree.jpg
+     Author: This work was made by Tushar Hossain and released under the license(s) stated below. Please feel free to use it for any purpose as long as y
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 46. 面包果 / Breadfruit — images/breadfruit.jpg
+     File: https://commons.wikimedia.org/wiki/File:Artocarpus_altilis_(fruit).jpg
+     Author: Hans Hillewaert
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 47. 火龙果 / Dragon fruit — images/dragon-fruit.jpg
+     File: https://commons.wikimedia.org/wiki/File:Pitaya_cross_section_ed2.jpg
+     Author: SMasters
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 48. 百香果 / Passion fruit — images/passion-fruit.jpg
+     File: https://commons.wikimedia.org/wiki/File:Passiflora_Edulis_Closed_Fruit.jpg
+     Author: Alexander Klink
+     License: CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+ 49. 番石榴 / Guava — images/guava.jpg
+     File: https://commons.wikimedia.org/wiki/File:Guava_pink_fruit.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 50. 柿子 / Persimmon — images/persimmon.jpg
+     File: https://commons.wikimedia.org/wiki/File:Fuyu_Persimmon_(Diospyros_Kaki).jpg
+     Author: Joe Ravi
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 51. 石榴 / Pomegranate — images/pomegranate.jpg
+     File: https://commons.wikimedia.org/wiki/File:Pomegranate_Juice_(2019).jpg
+     Author: Augustus Binu : flickr
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 52. 无花果 / Fig — images/fig.jpg
+     File: https://commons.wikimedia.org/wiki/File:Smokve_na_grani.jpg
+     Author: Silverije
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 53. 椰枣 / Date — images/date.jpg
+     File: https://commons.wikimedia.org/wiki/File:Dates005.jpg
+     Author: Nepenthes
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 54. 油橄榄 / Olive — images/olive.jpg
+     File: https://commons.wikimedia.org/wiki/File:Olivesfromjordan.jpg
+     Author: en:User:Nickfraser
+     License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+ 55. 牛油果 / Avocado — images/avocado.jpg
+     File: https://commons.wikimedia.org/wiki/File:Persea_americana_fruit_2.JPG
+     Author: B.navez
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 56. 西瓜 / Watermelon — images/watermelon.jpg
+     File: https://commons.wikimedia.org/wiki/File:Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg
+     Author: Fred Hsu (Wikipedia:User:Fred Hsu on en.wikipedia)
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 57. 麝香甜瓜 / Cantaloupe — images/cantaloupe.jpg
+     File: https://commons.wikimedia.org/wiki/File:Canteloupe_and_cross_section.jpg
+     Author: fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8
+     License: GFDL 1.2 http://www.gnu.org/licenses/old-licenses/fdl-1.2.html
+ 58. 蜜露甜瓜 / Honeydew melon — images/honeydew-melon.jpg
+     File: https://commons.wikimedia.org/wiki/File:Honeydew.jpg
+     Author: Yotoen
+     License: Public domain 
+ 59. 甜瓜 / Muskmelon — images/muskmelon.jpg
+     File: https://commons.wikimedia.org/wiki/File:Cucumis_melo_on_white_background.jpg
+     Author: Filo gèn'
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 60. 杨桃 / Carambola — images/carambola.jpg
+     File: https://commons.wikimedia.org/wiki/File:Carambolas765pt.jpg
+     Author: K-MUS
+     License: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+ 61. 罗望子 / Tamarind — images/tamarind.jpg
+     File: https://commons.wikimedia.org/wiki/File:Tamarind_Pods_(5201031112).jpg
+     Author: Leslie Seaton from Seattle, WA, USA
+     License: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+ 62. 人心果 / Sapodilla — images/sapodilla.jpg
+     File: https://commons.wikimedia.org/wiki/File:Sapodilla_Malay_with_seeds.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 63. 刺果番荔枝 / Soursop — images/soursop.jpg
+     File: https://commons.wikimedia.org/wiki/File:Annona_muricata_1.jpg
+     Author: Damien Boilley from suburbs of Paris, France
+     License: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+ 64. 番荔枝 / Sugar-apple — images/sugar-apple.jpg
+     File: https://commons.wikimedia.org/wiki/File:Sugar_apple_on_tree.jpg
+     Author: Muhammad Mahdi Karim
+     License: GFDL 1.2 http://www.gnu.org/licenses/old-licenses/fdl-1.2.html
+ 65. 秘鲁番荔枝 / Cherimoya — images/cherimoya.jpg
+     File: https://commons.wikimedia.org/wiki/File:Annona_cherimola_1DS-II_3-0536.jpg
+     Author: SAplants
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 66. 费约果 / Feijoa — images/feijoa.jpg
+     File: https://commons.wikimedia.org/wiki/File:Acca_sellowiana_Fruit_MHNT_Fronton.jpg
+     Author: Didier Descouens
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 67. 枣 / Jujube — images/jujube.jpg
+     File: https://commons.wikimedia.org/wiki/File:Ziziphus_jujuba_(fruit).jpg
+     Author: Ismael Olea
+     License: CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+ 68. 杨梅 / Yangmei — images/yangmei.jpg
+     File: https://commons.wikimedia.org/wiki/File:Yangmei_grown_in_Fremont,_California.jpg
+     Author: Lucuscal
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 69. 蛇皮果 / Salak — images/salak.jpg
+     File: https://commons.wikimedia.org/wiki/File:Salak_(Salacca_zalacca),_2015-05-17.jpg
+     Author: Crisco 1492
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 70. 榔色果 / Langsat — images/langsat.jpg
+     File: https://commons.wikimedia.org/wiki/File:Lanzones.jpg
+     Author: Mike Gonzalez (TheCoffee)
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 71. 嘉宝果 / Jabuticaba — images/jabuticaba.jpg
+     File: https://commons.wikimedia.org/wiki/File:Jabuticaba_fruto.jpg
+     Author: Alexandre CampolinaCampola
+     License: CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+ 72. 西印度樱桃 / Acerola — images/acerola.jpg
+     File: https://commons.wikimedia.org/wiki/File:Malpighia_glabra_blossom_and_fruit.jpg
+     Author: Eric Gaba (Sting - fr:Sting)
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 73. 巴西莓 / Açaí — images/acai.jpg
+     File: https://commons.wikimedia.org/wiki/File:Euterpe_oleracea_MHNT.BOT.2008.1.39.jpg
+     Author: Roger Culos
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 74. 云莓 / Cloudberry — images/cloudberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Hjortron.jpg
+     Author: Philipum
+     License: Public domain 
+ 75. 越橘 / Lingonberry — images/lingonberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Vaccinium_vitis-idaea_20060824_003.jpg
+     Author: Jonas Bergsten
+     License: Public domain 
+ 76. 山桑子 / Bilberry — images/bilberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Blueberries_(3084735551).jpg
+     Author: Josefine Stenudd from Gothenburg, Sweden
+     License: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+ 77. 沙棘 / Sea buckthorn — images/sea-buckthorn.jpg
+     File: https://commons.wikimedia.org/wiki/File:Hippophae_(Novogrudinina).jpg
+     Author: Виталий Уайлд
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 78. 枸杞 / Goji — images/goji.jpg
+     File: https://commons.wikimedia.org/wiki/File:Lycium_barbarum_-_Wolfberries_China_7-05.jpg
+     Author: Paul Gross (paul144) and Richard Zhang
+     License: Public domain 
+ 79. 灯笼果 / Cape gooseberry — images/cape-gooseberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Uchuva_2005.jpg
+     Author: No machine-readable author provided. JuanseG~commonswiki assumed (based on copyright claims).
+     License: Public domain 
+ 80. 树番茄 / Tamarillo — images/tamarillo.jpg
+     File: https://commons.wikimedia.org/wiki/File:Solanum_betaceum-IMG_0242.jpg
+     Author: C T Johansson
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 81. 苏里南苦樱桃 / Pitanga — images/pitanga.jpg
+     File: https://commons.wikimedia.org/wiki/File:Pitanga_(do_tupi_%27ybapytanga)_no_pampa_ga%C3%BAcho_02.jpg
+     Author: Bageense
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 82. 莲雾 / Wax apple — images/wax-apple.jpg
+     File: https://commons.wikimedia.org/wiki/File:Wax_apple1.jpg
+     Author: Allentchang（据文件页署名字段）
+     License: CC BY 2.5 https://creativecommons.org/licenses/by/2.5
+ 83. 蒲桃 / Rose apple — images/rose-apple.jpg
+     File: https://commons.wikimedia.org/wiki/File:Syzygium_jambos_Fruit_and_seeds_IMG_4906.JPG
+     Author: JonRichfield
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 84. 诺丽果 / Noni — images/noni.jpg
+     File: https://commons.wikimedia.org/wiki/File:Noni_Fruit_-_Morinda_citrifolia_Hawaii_6972.jpg
+     Author: ImagePerson
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 85. 猴面包果 / Baobab — images/baobab.jpg
+     File: https://commons.wikimedia.org/wiki/File:Adansonia_digitata_fruit%E2%80%94in_Mounts_Botanical_Garden_02.jpg
+     Author: KATHERINE WAGNER-REISS
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 86. 刺角瓜 / Horned melon — images/horned-melon.jpg
+     File: https://commons.wikimedia.org/wiki/File:Cucumis_metuliferus_fruit_-_whole_and_cross_section.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 87. 苦橙 / Bitter orange — images/bitter-orange.jpg
+     File: https://commons.wikimedia.org/wiki/File:Citrus_aurantium.jpg
+     Author: A. Barra
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 88. 香柠檬 / Bergamot orange — images/bergamot-orange.jpg
+     File: https://commons.wikimedia.org/wiki/File:Bergamot_orange_-_whole_and_slice.jpg
+     Author: Ivar Leidus
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 89. 柑 / Tangerine — images/tangerine.jpg
+     File: https://commons.wikimedia.org/wiki/File:Tangerine_2009-03-11.jpg
+     Author: Kaldari
+     License: Public domain 
+ 90. 克里曼丁红橘 / Clementine — images/clementine.jpg
+     File: https://commons.wikimedia.org/wiki/File:Clementines_whole,_peeled,_half_and_sectioned.jpg
+     Author: carol
+     License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+ 91. 血橙 / Blood orange — images/blood-orange.jpg
+     File: https://commons.wikimedia.org/wiki/File:Blood_Orange_2.jpg
+     Author: Eric Hill from Boston, MA, USA
+     License: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+ 92. 牙买加丑橘 / Ugli fruit — images/ugli-fruit.jpg
+     File: https://commons.wikimedia.org/wiki/File:Ugli.jpg
+     Author: Dysmorodrepanis
+     License: CC BY-SA 2.5 https://creativecommons.org/licenses/by-sa/2.5
+ 93. 梨果仙人掌 / Prickly pear — images/prickly-pear.jpg
+     File: https://commons.wikimedia.org/wiki/File:Hint_inciri_-_Indian_fig_-_Opuntia_ficus-indica_02.JPG
+     Author: Zeynel Cebeci
+     License: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+ 94. 山楂 / Chinese hawthorn — images/chinese-hawthorn.jpg
+     File: https://commons.wikimedia.org/wiki/File:HawthornFruit.JPG
+     Author: Yongxinge
+     License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+ 95. 金星果 / Star apple — images/star-apple.jpg
+     File: https://commons.wikimedia.org/wiki/File:Chrysophyllum_cainito0.jpg
+     Author: No machine-readable author provided. Hans B.~commonswiki assumed (based on copyright claims).
+     License: Public domain 
+ 96. 余甘子 / Amla — images/amla.jpg
+     File: https://commons.wikimedia.org/wiki/File:Phyllanthus_officinalis.jpg
+     Author: L. Shyamal
+     License: CC BY 2.5 https://creativecommons.org/licenses/by/2.5
+ 97. 软枣猕猴桃 / Hardy kiwi — images/hardy-kiwi.jpg
+     File: https://commons.wikimedia.org/wiki/File:Actinidia_arguta_fruit_-_hardy_kiwi_-_Kiwibeere_03.jpg
+     Author: Rillke
+     License: CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+ 98. 大蕉 / Plantain — images/plantain.jpg
+     File: https://commons.wikimedia.org/wiki/File:Plantains.jpg
+     Author: Daegis
+     License: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+ 99. 可可果 / Cacao — images/cacao.jpg
+     File: https://commons.wikimedia.org/wiki/File:Digital_Inclusion_in_the_Peruvian_Amazon_-_48138694956.jpg
+     Author: USAID Digital Development
+     License: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+100. 野樱莓 / Chokeberry — images/chokeberry.jpg
+     File: https://commons.wikimedia.org/wiki/File:Chokeberries.jpg
+     Author: Mrigashirsha
+     License: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0

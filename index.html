@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>百果图鉴 · 100 种常见水果介绍</title>
+<meta name="description" content="100 种常见可食用水果的图文介绍：中文名、英文名、学名、科属与图片。数据来自 Wikidata，图片来自 Wikimedia Commons。">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <h1><span class="logo">🍓🍊🍋🍇</span> 百果图鉴</h1>
+    <p class="tagline">收录 <b id="total">100</b> 种常见水果 · 中文名 / 英文名 / 学名 · 科属与图片</p>
+    <div class="search-wrap">
+      <input id="q" type="search" placeholder="搜索：中文名、拼音、英文名或学名，例如 芒果 / mango / Mangifera" autocomplete="off" aria-label="搜索水果">
+    </div>
+  </div>
+</header>
+
+<section class="toolbar" aria-label="筛选">
+  <div class="row">
+    <label class="sel">科：
+      <select id="family"><option value="">全部科</option></select>
+    </label>
+    <div class="mode" role="group" aria-label="首字母方式">
+      <button class="mode-btn active" data-mode="py">拼音首字母</button>
+      <button class="mode-btn" data-mode="en">英文首字母</button>
+    </div>
+    <label class="sel">排序：
+      <select id="sort">
+        <option value="default">常见程度</option>
+        <option value="py">中文拼音</option>
+        <option value="en">英文名</option>
+        <option value="family">科名</option>
+      </select>
+    </label>
+    <button id="reset" class="reset">重置筛选</button>
+  </div>
+  <div id="letters" class="letters" aria-label="首字母筛选"></div>
+  <div class="status" id="status"></div>
+</section>
+
+<main>
+  <div id="grid" class="grid" aria-live="polite"></div>
+  <p id="empty" class="empty" hidden>没有找到匹配的水果，换个关键词试试吧 🍉</p>
+</main>
+
+<div id="modal" class="modal" hidden role="dialog" aria-modal="true" aria-labelledby="m-title">
+  <div class="modal-backdrop" data-close></div>
+  <article class="modal-card">
+    <button class="close" data-close aria-label="关闭">×</button>
+    <div class="modal-body">
+      <figure class="m-fig">
+        <img id="m-img" alt="">
+        <figcaption id="m-credit" class="credit"></figcaption>
+      </figure>
+      <div class="m-info">
+        <h2 id="m-title"></h2>
+        <p id="m-sub" class="sub"></p>
+        <p id="m-intro" class="intro"></p>
+        <dl id="m-facts" class="facts"></dl>
+        <p class="links" id="m-links"></p>
+        <div class="nav-btns"><button id="m-prev">← 上一个</button><button id="m-next">下一个 →</button></div>
+      </div>
+    </div>
+  </article>
+</div>
+
+<footer class="footer">
+  <p>数据来源：<a href="https://www.wikidata.org/" target="_blank" rel="noopener">Wikidata</a>（CC0）。图片均来自 <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener">Wikimedia Commons</a>，版权归各作者所有，按各自的自由许可协议使用，详见 <a href="credits.html">图片署名与许可</a>。</p>
+  <p>介绍文字根据 Wikidata 结构化数据（科属、学名、果实类型、用途等）编写，仅供科普参考。</p>
+</footer>
+<script src="assets/data.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>图片署名与许可 · 百果图鉴</title><link rel="stylesheet" href="assets/style.css"></head>
+<body>
+<header class="hero" style="padding-bottom:36px"><div class="hero-inner">
+<h1>图片署名与许可</h1>
+<p class="tagline">本站全部图片均来自 Wikimedia Commons，按其各自的自由许可协议使用（已缩放为约 450 像素宽）。作者与许可信息取自 Commons API 的 extmetadata。</p>
+<a class="back" href="index.html">← 返回首页</a></div></header>
+<section class="credits">
+<p>文字数据来自 <a href="https://www.wikidata.org/" target="_blank" rel="noopener">Wikidata</a>（CC0 公共领域贡献）。介绍文字为根据这些结构化数据另行编写，非维基百科原文。点击文件名可查看 Commons 原始文件页及完整许可说明。</p>
+<table><thead><tr><th>#</th><th>图片</th><th>水果</th><th>文件（Commons）</th><th>作者</th><th>许可</th></tr></thead><tbody id="rows"></tbody></table>
+</section>
+<footer class="footer"><a href="index.html">返回首页</a></footer>
+<script src="assets/data.js"></script>
+<script>
+(function(){
+  var esc=function(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});};
+  var h=(window.FRUITS||[]).map(function(f,i){var c=f.credit;
+    var lic=c.license_url?'<a href="'+esc(c.license_url)+'" target="_blank" rel="noopener license">'+esc(c.license)+'</a>':esc(c.license);
+    return '<tr><td>'+(i+1)+'</td><td><a href="index.html#fruit='+encodeURIComponent(f.id)+'"><img loading="lazy" src="'+esc(f.img)+'" alt="'+esc(f.zh)+'"></a></td><td><b>'+esc(f.zh)+'</b><br>'+esc(f.en)+'</td><td><a href="'+esc(c.page)+'" target="_blank" rel="noopener">'+esc(c.file)+'</a></td><td>'+esc(c.artist)+'</td><td>'+lic+'</td></tr>';}).join("");
+  document.getElementById("rows").innerHTML=h;
+})();
+</script>
+</body></html>
